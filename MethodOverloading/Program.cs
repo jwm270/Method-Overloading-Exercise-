@@ -32,7 +32,9 @@
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Add(2, 2, true));
+            //Console.WriteLine(Add(2, 2, true));
+            //Console.WriteLine(Add(2, 2));
+            Console.WriteLine(Add(2.5m, 2.5m));
         }
     }
 }
